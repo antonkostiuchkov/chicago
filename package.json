@@ -1,0 +1,23 @@
+{
+  "name": "learnStylus",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-stylus": "~2.0.1",
+    "typographic": "~2.9.3",
+    "nib": "~1.1.0",
+    "lost-grid": "~5.1.5",
+    "jquery": "~2.1.4",
+    "normalize.css": "~3.0.3",
+    "gulp-jade": "~1.0.1",
+    "browser-sync": "~2.7.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
